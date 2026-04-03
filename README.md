@@ -7,12 +7,6 @@
 把复杂系统做得更清晰，把工程细节打磨得更优雅。  
 在北京，长期关注 **Modern C++ / Unreal Engine / 可维护性设计**。
 
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-Modern-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal-Engineering-0E1128?style=flat-square&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Principle-Clean%20Architecture-1F6FEB?style=flat-square" />
-</p>
-
 </div>
 
 ---
@@ -30,12 +24,6 @@
 - [`More-Cpp-Idioms-Chinese`](https://github.com/SmartStone3/More-Cpp-Idioms-Chinese) - *More C++ Idioms* 中文翻译。  
 - [`leetcode`](https://github.com/SmartStone3/leetcode) - 算法与数据结构训练记录。  
 - [`tinyfsm`](https://github.com/SmartStone3/tinyfsm) - 轻量级有限状态机库（Fork）。
-
-## 动态
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SmartStone3&show_icons=true&hide_border=true&rank_icon=percentile" />
-</p>
 
 ---
 

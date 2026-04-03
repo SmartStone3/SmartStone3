@@ -7,6 +7,8 @@
 把复杂系统做得更清晰，把工程细节打磨得更优雅。  
 在北京，长期关注 **Modern C++ / Unreal Engine / 可维护性设计**。
 
+🔗 博客：[https://smartstone3.github.io](https://smartstone3.github.io)
+
 </div>
 
 ---

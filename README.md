@@ -16,10 +16,6 @@ C++ Engineering Aesthetics x Unreal Practice
 - 可读性优先，抽象克制，边界清晰，长期可维护。
 - 关注 Modern C++、Unreal Engine、工程化与知识沉淀。
 
-## 项目
-
-[`Unreal-Document`](https://github.com/SmartStone3/Unreal-Document) · [`More-Cpp-Idioms-Chinese`](https://github.com/SmartStone3/More-Cpp-Idioms-Chinese) · [`leetcode`](https://github.com/SmartStone3/leetcode) · [`tinyfsm`](https://github.com/SmartStone3/tinyfsm)
-
 ## 关键词
 
 `Modern C++` `Unreal Engine` `Refactoring` `Architecture` `Tooling`

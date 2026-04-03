@@ -7,6 +7,8 @@ C++ Engineering Aesthetics x Unreal Practice
 
 博客: <a href="https://smartstone3.github.io">smartstone3.github.io</a>
 
+🟦 C++ · 🟪 Unreal · 🟩 Architecture · 🟧 Refactoring · 🟨 Tooling
+
 </div>
 
 ---

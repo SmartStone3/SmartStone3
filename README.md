@@ -13,11 +13,6 @@
 
 ---
 
-## 色彩与风格
-
-🔵 C++ · 🔴 Unreal · 🟢 Clean Architecture · 🟠 Refactoring · 🟣 Tooling · 🟡 Documentation
-
----
 
 ## 工程美学观
 

@@ -1,46 +1,48 @@
-<h1 align="center">Hi there, I'm SmartStone3 👋</h1>
+<div align="center">
 
-<p align="center">
-  🎯 聚焦 <b>C++</b>、<b>Unreal Engine</b> 与工程实践<br/>
-  📍 Beijing, China · 🏢 Perfect World
-</p>
+# SmartStone3
 
-<p align="center">
-  <a href="https://github.com/SmartStone3"><img src="https://img.shields.io/badge/C%2B%2B-Expert-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
-  <a href="https://github.com/SmartStone3"><img src="https://img.shields.io/badge/Unreal%20Engine-Dev-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" /></a>
-  <a href="https://github.com/SmartStone3?tab=repositories"><img src="https://img.shields.io/badge/Open%20Source-Builder-1F6FEB?style=for-the-badge" /></a>
-</p>
-
----
-
-## 🚀 About Me
-
-- 热爱使用 Modern C++ 构建可靠、可维护的软件系统。
-- 持续探索 Unreal Engine 工具链、输入系统与工程化工作流。
-- 喜欢把复杂技术沉淀成清晰、可复用的文档与实践笔记。
-
-## 🧩 Featured Work
-
-- [Unreal-Document](https://github.com/SmartStone3/Unreal-Document) - Unreal Engine 开发笔记与实践。
-- [More-Cpp-Idioms-Chinese](https://github.com/SmartStone3/More-Cpp-Idioms-Chinese) - *More C++ Idioms* 中文翻译。
-- [leetcode](https://github.com/SmartStone3/leetcode) - 算法刷题记录与 C++ 题解。
-- [tinyfsm](https://github.com/SmartStone3/tinyfsm) - 轻量级 C++ 有限状态机库（Fork）。
-
-## 🛠 Tech Stack
+**C++ / Unreal Engine Developer**  
+在北京做游戏工程与工具实践，关注可维护性、工程效率与知识沉淀。
 
 <p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Engine-Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Beijing-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Engineering%20Craft-0A7E3E?style=flat-square" />
 </p>
 
-## 🌱 2026 Focus
-
-- 打磨更实用的 Unreal/C++ 示例与工具。
-- 持续提升中英文技术文档质量。
-- 参与强调 Clean Design 与长期可维护性的开源项目。
+</div>
 
 ---
 
-<p align="center">Thanks for visiting 👀</p>
+## 我在做什么
+
+- 打磨 Unreal Engine 开发流程中的工具化与调试体验。
+- 用 Modern C++ 构建更稳、更清晰、更容易协作的代码结构。
+- 把踩坑与方法论整理成中英文笔记，长期可复用。
+
+## 精选项目
+
+- [`Unreal-Document`](https://github.com/SmartStone3/Unreal-Document): Unreal 开发笔记与实践手册。  
+- [`More-Cpp-Idioms-Chinese`](https://github.com/SmartStone3/More-Cpp-Idioms-Chinese): *More C++ Idioms* 中文翻译与学习笔记。  
+- [`leetcode`](https://github.com/SmartStone3/leetcode): 算法题记录与 C++ 题解。  
+- [`tinyfsm`](https://github.com/SmartStone3/tinyfsm): 轻量级有限状态机库（Fork）。
+
+## 技术关键词
+
+`C++` `Unreal Engine` `Architecture` `Tooling` `Debugging` `Documentation`
+
+## 写作与沉淀方向（2026）
+
+- Unreal 输入系统、UI 调试链路、工程化工作流。
+- C++ 设计与重构中的“可演进性”实践。
+- 面向团队协作的文档模板与知识结构。
+
+---
+
+<div align="center">
+
+> Keep building. Keep documenting.
+
+</div>

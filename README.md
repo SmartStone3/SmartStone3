@@ -10,17 +10,17 @@
 🔗 博客：[smartstone3.github.io](https://smartstone3.github.io)
 
 <p>
-  <img src="https://img.shields.io/badge/C%2B%2B-Modern-0066FF?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Unreal-Engine-FF2D55?style=for-the-badge&logo=unrealengine&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Clean-Architecture-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C%2B%2B-Modern-2F6BFF?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Unreal-Engine-E6486E?style=for-the-badge&logo=unrealengine&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Clean-Architecture-1FBF66?style=for-the-badge" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Readable-First-00E5FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Abstraction-Restrained-FFEA00?style=flat-square" />
-  <img src="https://img.shields.io/badge/Boundary-Clear-FF6D00?style=flat-square" />
-  <img src="https://img.shields.io/badge/Refactor-Friendly-D500F9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Long--term-Maintainable-FF1744?style=flat-square" />
+  <img src="https://img.shields.io/badge/Readable-First-2CCCE0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Abstraction-Restrained-E8C63D?style=flat-square" />
+  <img src="https://img.shields.io/badge/Boundary-Clear-EA7A32?style=flat-square" />
+  <img src="https://img.shields.io/badge/Refactor-Friendly-A65CE6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Long--term-Maintainable-E84C74?style=flat-square" />
 </p>
 
 </div>
@@ -37,20 +37,20 @@
 ## 项目橱窗
 
 - [`Unreal-Document`](https://github.com/SmartStone3/Unreal-Document)  
-  <img src="https://img.shields.io/badge/Track-Unreal%20Workflow-FF1744?style=flat-square" />
-  <img src="https://img.shields.io/badge/Type-Notes%20%26%20Practice-00B0FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Track-Unreal%20Workflow-E84C74?style=flat-square" />
+  <img src="https://img.shields.io/badge/Type-Notes%20%26%20Practice-2F83E4?style=flat-square" />
 
 - [`More-Cpp-Idioms-Chinese`](https://github.com/SmartStone3/More-Cpp-Idioms-Chinese)  
-  <img src="https://img.shields.io/badge/Track-C%2B%2B%20Idioms-7C4DFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Type-Translation-FF3D00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Track-C%2B%2B%20Idioms-7E63E6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Type-Translation-E85E3A?style=flat-square" />
 
 - [`leetcode`](https://github.com/SmartStone3/leetcode)  
-  <img src="https://img.shields.io/badge/Track-Algorithms-00E676?style=flat-square" />
-  <img src="https://img.shields.io/badge/Type-C%2B%2B%20Practice-FFC400?style=flat-square" />
+  <img src="https://img.shields.io/badge/Track-Algorithms-30C775?style=flat-square" />
+  <img src="https://img.shields.io/badge/Type-C%2B%2B%20Practice-E0B93C?style=flat-square" />
 
 - [`tinyfsm`](https://github.com/SmartStone3/tinyfsm)  
-  <img src="https://img.shields.io/badge/Track-State%20Machine-00B8D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Type-Library%20Fork-AA00FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Track-State%20Machine-34AFC8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Type-Library%20Fork-9563E0?style=flat-square" />
 
 ## 关键词
 

@@ -14,6 +14,10 @@
   <img src="https://img.shields.io/badge/Style-Readable%20%26%20Reliable-0A7E3E?style=flat-square" />
 </p>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=SmartStone3&label=Profile%20Views&color=0e75b6&style=flat-square" />
+</p>
+
 </div>
 
 ---
@@ -44,6 +48,13 @@
 
 - [`tinyfsm`](https://github.com/SmartStone3/tinyfsm)  
   轻量级有限状态机库（Fork），体现“小而美”的设计思路。
+
+## 轻量动态
+
+<p align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=SmartStone3&show_icons=true&hide_border=true&rank_icon=percentile" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmartStone3&layout=compact&hide_border=true&langs_count=6" />
+</p>
 
 ## 关键词
 

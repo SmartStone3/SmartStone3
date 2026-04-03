@@ -2,9 +2,9 @@
 
 # SmartStone3
 
-<p align="center">
-  <a href="https://smartstone3.github.io"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20BLOG-smartstone3.github.io-FF4D4D?style=for-the-badge" /></a>
-</p>
+<h3 align="center">博客入口: <a href="https://smartstone3.github.io">smartstone3.github.io</a></h3>
+
+
 
 ### C++ Engineering Aesthetics x Unreal Practice
 

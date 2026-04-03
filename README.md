@@ -2,12 +2,15 @@
 
 # SmartStone3
 
+<p align="center">
+  <a href="https://smartstone3.github.io"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20BLOG-smartstone3.github.io-FF4D4D?style=for-the-badge" /></a>
+</p>
+
 ### C++ Engineering Aesthetics x Unreal Practice
 
 把复杂系统做得更清晰，把工程细节打磨得更优雅。  
 在北京，长期关注 **Modern C++ / Unreal Engine / 可维护性设计**。
 
-🔗 博客：[smartstone3.github.io](https://smartstone3.github.io)
 
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-Modern-2F6BFF?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF" />

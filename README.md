@@ -2,7 +2,7 @@
 
 # SmartStone3
 
-<h2 align="center">🟥 <a href="https://smartstone3.github.io">博客: smartstone3.github.io</a></h2>
+<h2 align="center">🟩 <a href="https://smartstone3.github.io">博客: smartstone3.github.io</a></h2>
 
 C++ Engineering Aesthetics x Unreal Practice  
 把复杂系统做得更清晰，把工程细节打磨得更优雅。
